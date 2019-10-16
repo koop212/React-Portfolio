@@ -116,6 +116,10 @@ let resumeData = {
       {
         "description":"I've had the pleasure of studying alongside Bobby in the Full Stack Engineering Certification program at Prime Digital Academy. He always shows up on time, ready to work, and with an excellent attitude. Bobby consistently pushes himself to learn new technologies and concepts beyond the required curriculum. Moreover, he is always willing to help out his fellow classmates by passing along what he has learned. ",
         "name":"Thomas Roselyn"
+      },
+      {
+        "description": "This is a Letter of Thanks from the Positive Attitude Development Group to you Bobby for working as a great team member to create the Digital Brain Change app.  The work you and the team did will enable the PAD Group to help others while gathering data that can be used to expand each participant’s ability to self-reflect and enjoy a better life. I appreciate your work and kindness and if you want to use me as a reference you have my permission. For me, your work helped make a dream come true.",
+        "name":"Lyle Wildes"
       }
     ]
   }
