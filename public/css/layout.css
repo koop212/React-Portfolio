@@ -560,6 +560,10 @@ ul#nav li.current a { color: #90FCF9; }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
+.downloadResume {
+   text-align: center;
+}
+
 
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
