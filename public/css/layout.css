@@ -325,6 +325,12 @@ ul#nav li.current a { color: #90FCF9; }
    border-radius: 3px 0 0 3px;
 }
 
+.javascript {
+  	width: 90%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
 .css {
   	width: 85%;
   	-moz-animation: css 2s ease;
@@ -562,6 +568,9 @@ ul#nav li.current a { color: #90FCF9; }
 
 .downloadResume {
    text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+   text-decoration: underline;
 }
 
 

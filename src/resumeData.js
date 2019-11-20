@@ -67,6 +67,9 @@ let resumeData = {
     ],
     "skills":[
       {
+        "skillname":"Javascript"
+      },
+      {
         "skillname":"HTML5"
       },
       {
@@ -88,21 +91,21 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Brain Change",
-        "description":"Positive Attitude Development is a program to help users develop their five core values.  For over 20 years, user information was collected manually on paper.  The client ask was to build a digital version of Positive Attitude Development.",
+        "description":"The application was created by a group of 4 developers including myself. Brain Change is a program to help users develop their five core values. The application was created with React, Node, Express, Passport, PostgreSQL and Material UI.",
         "imgurl":"images/portfolio/brainchange.jpg",
         "url":"https://github.com/positive-attitude-development/brain-change",
         "className":"fa fa-github"
       },
       {
         "name":"Book & Drive",
-        "description":"Created an application to help people save on renting vehicles from a rental company.  The application will allow users to add their personal vehicle online and other users to rent vehicles from a local host.",
+        "description":"For my solo project at Prime Digital Academy, I created an application to help people save on renting vehicles from a rental company. It was created with React, Node, Express, PostgreSQL, Material UI and Sweetalert.",
         "imgurl":"images/portfolio/book&drive.jpg",
         "url":"https://github.com/koop212/Book-Drive-solo-project",
         "className": "fa fa-github"
       },
       {
         "name": "Mood Ring Image",
-        "description": "Web application to select your mood for each image shown",
+        "description": "Web application to select your mood for each image shown. This project was an assignment to create an image slider without using any node package or material ui.",
         "imgurl": "images/portfolio/moodimage.jpg",
         "url": "https://github.com/koop212/sagas-mood-ring",
         "className": "fa fa-github"
