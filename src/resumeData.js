@@ -94,21 +94,24 @@ let resumeData = {
         "description":"The application was created by a group of 4 developers including myself. Brain Change is a program to help users develop their five core values. The application was created with React, Node, Express, Passport, PostgreSQL and Material UI.",
         "imgurl":"images/portfolio/brainchange.jpg",
         "url":"https://github.com/positive-attitude-development/brain-change",
-        "className":"fa fa-github"
+        "className":"fa fa-github",
+        "urlLink": "https://brainchange.herokuapp.com"
       },
       {
         "name":"Book & Drive",
         "description":"For my solo project at Prime Digital Academy, I created an application to help people save on renting vehicles from a rental company. It was created with React, Node, Express, PostgreSQL, Material UI and Sweetalert.",
         "imgurl":"images/portfolio/book&drive.jpg",
         "url":"https://github.com/koop212/Book-Drive-solo-project",
-        "className": "fa fa-github"
+        "className": "fa fa-github",
+        "urlLink": "https://book-and-drive.herokuapp.com/"
       },
       {
         "name": "Mood Ring Image",
         "description": "Web application to select your mood for each image shown. This project was an assignment to create an image slider without using any node package or material ui.",
         "imgurl": "images/portfolio/moodimage.jpg",
         "url": "https://github.com/koop212/sagas-mood-ring",
-        "className": "fa fa-github"
+        "className": "fa fa-github",
+        "urlLink": "https://mood-image.herokuapp.com/"
       }
     ],
     "testimonials":[

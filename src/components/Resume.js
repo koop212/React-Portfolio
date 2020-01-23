@@ -97,7 +97,7 @@ export default  class Resume extends Component {
    				</div>
    			</div>
           <div className="downloadResume">
-            <a href="https://docs.google.com/document/d/1h5dsNlZZ_x-8gP_kB3qzvmzlZFRw4sTfJb2pBXpiA3U/edit?usp=sharing" download>View Resume</a>
+            <a href="https://docs.google.com/document/d/1h5dsNlZZ_x-8gP_kB3qzvmzlZFRw4sTfJb2pBXpiA3U/export?format=pdf">View Resume</a>
           </div>
         </div>
 
